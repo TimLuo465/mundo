@@ -1,0 +1,12 @@
+{
+  "name": "webpack-amd",
+  "version": "1.0.0",
+  "description": "A demo for webpack-amd",
+  "main": "webpack.js",
+  "repository": "https://github.com/TimLuo465/Lux.git",
+  "author": "Tim Luo <timluo465@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    
+  },
+}
